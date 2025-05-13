@@ -1,0 +1,2 @@
+# This file will be deleted to test delete permissions.
+Safe to remove.
