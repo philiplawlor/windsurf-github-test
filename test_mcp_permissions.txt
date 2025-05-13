@@ -1,0 +1,2 @@
+# Test file to verify update permissions
+This file was created by the MCP GitHub integration test.
